@@ -12,7 +12,8 @@
             "downloadURL": "https://movieboxpro.app/ipa",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://styles.redditmedia.com/t5_29hb17/styles/communityIcon_lvh487phfd451.png?width=256&v=enabled&s=b192eef4cd3c4f0c8aca53544661de56e781067e"
+            "icon": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/movieboxpro.png",
+            "iconURL": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/movieboxpro.png"
         },
     ]
 }
