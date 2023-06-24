@@ -18,7 +18,7 @@
 
         {
             "name": "Gyroflow",
-            "bundleIdentifier": "com.gyroflow.gyroflow",
+            "bundleIdentifier": "xyz.gyroflow",
             "version": "",
             "versionDate": "",
             "size": 850000,
