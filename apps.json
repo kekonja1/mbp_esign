@@ -15,5 +15,19 @@
             "icon": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/movieboxpro.png",
             "iconURL": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/movieboxpro.png"
         },
+
+        {
+            "name": "Gyroflow",
+            "bundleIdentifier": "com.gyroflow.gyroflow",
+            "version": "",
+            "versionDate": "",
+            "size": 850000,
+            "downloadURL": "https://gyroflow.xyz/Gyroflow.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "icon": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/gyroflow.png",
+            "iconURL": "https://raw.githubusercontent.com/kekonja1/mbp_esign/main/icons/gyroflow.png"
+        },
+        
     ]
 }
